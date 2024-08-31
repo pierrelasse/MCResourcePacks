@@ -1,0 +1,33 @@
+{
+    "aquari": {
+        "name": "§bAquari"
+    },
+    "atlas_16x": {
+        "name": "§dAtlas",
+        "res": 16
+    },
+    "azura_16x": {
+        "name": "§3azura",
+        "res": 16
+    },
+    "bluetree_16x": {
+        "name": "§bBlueTree",
+        "res": 16
+    },
+    "bluetree_32x": {
+        "name": "§bBlueTree",
+        "res": 32
+    },
+    "childish_20k_32x": {
+        "name": "§3Childish 20k",
+        "res": 32
+    },
+    "cockpollo_16x": {
+        "name": "§bCockpollo",
+        "res": 16
+    },
+    "pinkle_16x": {
+        "name": "§dPinkle",
+        "res": 16
+    }
+}

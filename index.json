@@ -1,0 +1,14 @@
+{
+    "dump": {
+        "name": "Dump",
+        "description": "Very many packs yh"
+    },
+    "jonniwix": {
+        "name": "JonniWix",
+        "description": "Brezel"
+    },
+    "other": {
+        "name": "Essentials",
+        "description": "Packs that you can't live without"
+    }
+}

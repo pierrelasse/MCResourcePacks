@@ -1,0 +1,28 @@
+{
+    "amongus_swords": {
+        "name": "AmongUs Swords",
+        "preview": true
+    },
+    "amongus-armor-remake": {
+        "name": "AmongUs Armor Remake",
+        "preview": true
+    },
+    "amongus-orbs": {
+        "name": "AmongUs Orbs",
+        "preview": true
+    },
+    "cursed-pumpkin-gapple": {
+        "name": "Cursed Pumpkin & Golden Apple",
+        "preview": true
+    },
+    "pizza": {
+        "name": "Pizzzaaa",
+        "description": "Cool (has no content)",
+        "preview": true
+    },
+    "shrekpek": {
+        "name": "Shrek Pek",
+        "description": "Very shreky (can't download)",
+        "preview": true
+    }
+}
