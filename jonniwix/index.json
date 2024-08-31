@@ -2,5 +2,9 @@
     "frosted_fruit": {
         "name": "§bFrosted §6Fruit",
         "description": "Mashup between NicoFruit and defrosted"
+    },
+    "nix_suka": {
+        "name": "Nix Suka",
+        "description": "Removes sugar cane particles"
     }
 }
