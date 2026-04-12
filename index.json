@@ -1,14 +1,18 @@
 {
-    "dump": {
-        "name": "Dump",
-        "description": "Very many packs yh"
-    },
-    "jonniwix": {
-        "name": "JonniWix",
-        "description": "Brezel"
-    },
-    "other": {
-        "name": "Essentials",
-        "description": "Packs that you can't live without"
-    }
+  "dump": {
+    "name": "Dump",
+    "description": "Generic uncategorized packs"
+  },
+  "special": {
+    "name": "Special",
+    "description": ""
+  },
+  "jonniwix": {
+    "name": "JonniWix",
+    "description": "Brezel"
+  },
+  "other": {
+    "name": "Essentials",
+    "description": "Packs that you can't live without"
+  }
 }
